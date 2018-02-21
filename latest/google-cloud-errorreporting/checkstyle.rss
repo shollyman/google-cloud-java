@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 17,
+      <title>File: 16,
              Errors: 0,
-             Warnings: 130,
+             Warnings: 128,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-errorreporting/checkstyle.html</link>
@@ -172,20 +172,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-errorreporting/checkstyle.html#com.google.cloud.errorreporting.v1beta1.PagedResponseWrappers.java">com/google/cloud/errorreporting/v1beta1/PagedResponseWrappers.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-errorreporting/checkstyle.html#com.google.cloud.errorreporting.v1beta1.ErrorStatsServiceSettings.java">com/google/cloud/errorreporting/v1beta1/ErrorStatsServiceSettings.java</a>
                 </td>
                 <td>
@@ -256,13 +242,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-errorreporting/checkstyle.html#com.google.cloud.errorreporting.v1beta1.stub.ReportErrorsServiceStubSettings.java">com/google/cloud/errorreporting/v1beta1/stub/ReportErrorsServiceStubSettings.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-errorreporting/checkstyle.html#com.google.cloud.errorreporting.v1beta1.ErrorStatsServiceClient.java">com/google/cloud/errorreporting/v1beta1/ErrorStatsServiceClient.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  8
+                  13
                 </td>
                 <td>
                   0
@@ -270,13 +256,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-errorreporting/checkstyle.html#com.google.cloud.errorreporting.v1beta1.ErrorStatsServiceClient.java">com/google/cloud/errorreporting/v1beta1/ErrorStatsServiceClient.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-errorreporting/checkstyle.html#com.google.cloud.errorreporting.v1beta1.stub.ReportErrorsServiceStubSettings.java">com/google/cloud/errorreporting/v1beta1/stub/ReportErrorsServiceStubSettings.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  11
+                  8
                 </td>
                 <td>
                   0

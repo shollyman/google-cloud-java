@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 13,
+      <title>File: 12,
              Errors: 0,
-             Warnings: 64,
+             Warnings: 62,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html</link>
@@ -60,7 +60,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v1.stub.TraceServiceStub.java">com/google/cloud/trace/v1/stub/TraceServiceStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v1.TraceServiceSettings.java">com/google/cloud/trace/v1/TraceServiceSettings.java</a>
                 </td>
                 <td>
                   0
@@ -88,35 +88,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v2.TraceServiceClient.java">com/google/cloud/trace/v2/TraceServiceClient.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v2.stub.GrpcTraceServiceStub.java">com/google/cloud/trace/v2/stub/GrpcTraceServiceStub.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v1.TraceServiceSettings.java">com/google/cloud/trace/v1/TraceServiceSettings.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v1.stub.TraceServiceStub.java">com/google/cloud/trace/v1/stub/TraceServiceStub.java</a>
                 </td>
                 <td>
                   0
@@ -158,7 +130,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v1.stub.GrpcTraceServiceStub.java">com/google/cloud/trace/v1/stub/GrpcTraceServiceStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v2.stub.GrpcTraceServiceStub.java">com/google/cloud/trace/v2/stub/GrpcTraceServiceStub.java</a>
                 </td>
                 <td>
                   0
@@ -172,7 +144,21 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v1.PagedResponseWrappers.java">com/google/cloud/trace/v1/PagedResponseWrappers.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v2.TraceServiceClient.java">com/google/cloud/trace/v2/TraceServiceClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v1.stub.GrpcTraceServiceStub.java">com/google/cloud/trace/v1/stub/GrpcTraceServiceStub.java</a>
                 </td>
                 <td>
                   0
@@ -200,20 +186,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v1.TraceServiceClient.java">com/google/cloud/trace/v1/TraceServiceClient.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v1.stub.TraceServiceStubSettings.java">com/google/cloud/trace/v1/stub/TraceServiceStubSettings.java</a>
                 </td>
                 <td>
@@ -221,6 +193,20 @@ under the License.
                 </td>
                 <td>
                   32
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-trace/checkstyle.html#com.google.cloud.trace.v1.TraceServiceClient.java">com/google/cloud/trace/v1/TraceServiceClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
                 </td>
                 <td>
                   0

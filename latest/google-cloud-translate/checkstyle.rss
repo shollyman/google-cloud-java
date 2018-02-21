@@ -172,20 +172,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-translate/checkstyle.html#com.google.cloud.translate.spi.v2.TranslateRpc.java">com/google/cloud/translate/spi/v2/TranslateRpc.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-translate/checkstyle.html#com.google.cloud.translate.Option.java">com/google/cloud/translate/Option.java</a>
                 </td>
                 <td>
@@ -193,6 +179,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-translate/checkstyle.html#com.google.cloud.translate.spi.v2.TranslateRpc.java">com/google/cloud/translate/spi/v2/TranslateRpc.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
                 </td>
                 <td>
                   0

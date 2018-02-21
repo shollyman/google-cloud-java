@@ -74,7 +74,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-resourcemanager/checkstyle.html#com.google.cloud.resourcemanager.ResourceManagerException.java">com/google/cloud/resourcemanager/ResourceManagerException.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-resourcemanager/checkstyle.html#com.google.cloud.resourcemanager.ResourceManagerImpl.java">com/google/cloud/resourcemanager/ResourceManagerImpl.java</a>
                 </td>
                 <td>
                   0
@@ -88,7 +88,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-resourcemanager/checkstyle.html#com.google.cloud.resourcemanager.ResourceManagerImpl.java">com/google/cloud/resourcemanager/ResourceManagerImpl.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-resourcemanager/checkstyle.html#com.google.cloud.resourcemanager.ResourceManagerException.java">com/google/cloud/resourcemanager/ResourceManagerException.java</a>
                 </td>
                 <td>
                   0
@@ -158,13 +158,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-resourcemanager/checkstyle.html#com.google.cloud.resourcemanager.testing.LocalResourceManagerHelper.java">com/google/cloud/resourcemanager/testing/LocalResourceManagerHelper.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-resourcemanager/checkstyle.html#com.google.cloud.resourcemanager.package-info.java">com/google/cloud/resourcemanager/package-info.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  3
+                  0
                 </td>
                 <td>
                   0
@@ -186,13 +186,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-resourcemanager/checkstyle.html#com.google.cloud.resourcemanager.package-info.java">com/google/cloud/resourcemanager/package-info.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-resourcemanager/checkstyle.html#com.google.cloud.resourcemanager.testing.LocalResourceManagerHelper.java">com/google/cloud/resourcemanager/testing/LocalResourceManagerHelper.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  0
+                  3
                 </td>
                 <td>
                   0

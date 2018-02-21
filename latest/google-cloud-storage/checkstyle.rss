@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 32,
+      <title>File: 33,
              Errors: 0,
-             Warnings: 123,
+             Warnings: 119,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html</link>
@@ -81,6 +81,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html#com.google.cloud.storage.spi.v1.HttpStorageRpcSpans.java">com/google/cloud/storage/spi/v1/HttpStorageRpcSpans.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -220,7 +234,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  26
+                  20
                 </td>
                 <td>
                   0
@@ -270,20 +284,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html#com.google.cloud.storage.Storage.java">com/google/cloud/storage/Storage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  30
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html#com.google.cloud.storage.SignatureInfo.java">com/google/cloud/storage/SignatureInfo.java</a>
                 </td>
                 <td>
@@ -291,6 +291,20 @@ under the License.
                 </td>
                 <td>
                   5
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html#com.google.cloud.storage.Storage.java">com/google/cloud/storage/Storage.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  30
                 </td>
                 <td>
                   0

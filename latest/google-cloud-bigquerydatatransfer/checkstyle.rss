@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 8,
+      <title>File: 7,
              Errors: 0,
-             Warnings: 240,
+             Warnings: 238,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquerydatatransfer/checkstyle.html</link>
@@ -46,20 +46,6 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquerydatatransfer/checkstyle.html#com.google.cloud.bigquery.datatransfer.v1.stub.GrpcDataTransferServiceStub.java">com/google/cloud/bigquery/datatransfer/v1/stub/GrpcDataTransferServiceStub.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  14
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquerydatatransfer/checkstyle.html#com.google.cloud.bigquery.datatransfer.v1.SampleApp.java">com/google/cloud/bigquery/datatransfer/v1/SampleApp.java</a>
                 </td>
                 <td>
@@ -74,27 +60,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquerydatatransfer/checkstyle.html#com.google.cloud.bigquery.datatransfer.v1.DataTransferServiceClient.java">com/google/cloud/bigquery/datatransfer/v1/DataTransferServiceClient.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquerydatatransfer/checkstyle.html#com.google.cloud.bigquery.datatransfer.v1.stub.GrpcDataTransferServiceStub.java">com/google/cloud/bigquery/datatransfer/v1/stub/GrpcDataTransferServiceStub.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  102
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquerydatatransfer/checkstyle.html#com.google.cloud.bigquery.datatransfer.v1.PagedResponseWrappers.java">com/google/cloud/bigquery/datatransfer/v1/PagedResponseWrappers.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  6
+                  14
                 </td>
                 <td>
                   0
@@ -116,13 +88,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquerydatatransfer/checkstyle.html#com.google.cloud.bigquery.datatransfer.v1.stub.DataTransferServiceStubSettings.java">com/google/cloud/bigquery/datatransfer/v1/stub/DataTransferServiceStubSettings.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquerydatatransfer/checkstyle.html#com.google.cloud.bigquery.datatransfer.v1.DataTransferServiceClient.java">com/google/cloud/bigquery/datatransfer/v1/DataTransferServiceClient.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  108
+                  106
                 </td>
                 <td>
                   0
@@ -137,6 +109,20 @@ under the License.
                 </td>
                 <td>
                   3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquerydatatransfer/checkstyle.html#com.google.cloud.bigquery.datatransfer.v1.stub.DataTransferServiceStubSettings.java">com/google/cloud/bigquery/datatransfer/v1/stub/DataTransferServiceStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  108
                 </td>
                 <td>
                   0

@@ -74,20 +74,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1beta2.LanguageServiceSettings.java">com/google/cloud/language/v1beta2/LanguageServiceSettings.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1.package-info.java">com/google/cloud/language/v1/package-info.java</a>
                 </td>
                 <td>
@@ -102,7 +88,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1.stub.LanguageServiceStub.java">com/google/cloud/language/v1/stub/LanguageServiceStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1beta2.LanguageServiceSettings.java">com/google/cloud/language/v1beta2/LanguageServiceSettings.java</a>
                 </td>
                 <td>
                   0
@@ -117,6 +103,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1.LanguageServiceSettings.java">com/google/cloud/language/v1/LanguageServiceSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1.stub.LanguageServiceStub.java">com/google/cloud/language/v1/stub/LanguageServiceStub.java</a>
                 </td>
                 <td>
                   0
@@ -172,6 +172,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1beta2.package-info.java">com/google/cloud/language/v1beta2/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1beta2.stub.LanguageServiceStub.java">com/google/cloud/language/v1beta2/stub/LanguageServiceStub.java</a>
                 </td>
                 <td>
@@ -193,20 +207,6 @@ under the License.
                 </td>
                 <td>
                   7
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1beta2.package-info.java">com/google/cloud/language/v1beta2/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
                 </td>
                 <td>
                   0

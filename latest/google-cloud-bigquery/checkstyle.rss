@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 56,
+      <title>File: 58,
              Errors: 0,
-             Warnings: 137,
+             Warnings: 146,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquery/checkstyle.html</link>
@@ -95,6 +95,20 @@ under the License.
                 </td>
                 <td>
                   2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquery/checkstyle.html#com.google.cloud.bigquery.EncryptionConfiguration.java">com/google/cloud/bigquery/EncryptionConfiguration.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
                 </td>
                 <td>
                   0
@@ -304,7 +318,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  0
+                  1
                 </td>
                 <td>
                   0
@@ -444,7 +458,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  25
+                  26
                 </td>
                 <td>
                   0
@@ -556,7 +570,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  3
+                  4
                 </td>
                 <td>
                   0
@@ -598,7 +612,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  3
+                  4
                 </td>
                 <td>
                   0
@@ -676,20 +690,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquery/checkstyle.html#com.google.cloud.bigquery.FormatOptions.java">com/google/cloud/bigquery/FormatOptions.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquery/checkstyle.html#com.google.cloud.bigquery.BigQueryException.java">com/google/cloud/bigquery/BigQueryException.java</a>
                 </td>
                 <td>
@@ -697,6 +697,20 @@ under the License.
                 </td>
                 <td>
                   2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquery/checkstyle.html#com.google.cloud.bigquery.FormatOptions.java">com/google/cloud/bigquery/FormatOptions.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -718,20 +732,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquery/checkstyle.html#com.google.cloud.bigquery.FieldValue.java">com/google/cloud/bigquery/FieldValue.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquery/checkstyle.html#com.google.cloud.bigquery.BigQuery.java">com/google/cloud/bigquery/BigQuery.java</a>
                 </td>
                 <td>
@@ -739,6 +739,20 @@ under the License.
                 </td>
                 <td>
                   7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquery/checkstyle.html#com.google.cloud.bigquery.FieldValue.java">com/google/cloud/bigquery/FieldValue.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
                 </td>
                 <td>
                   0
@@ -809,6 +823,20 @@ under the License.
                 </td>
                 <td>
                   2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigquery/checkstyle.html#com.google.cloud.bigquery.Labels.java">com/google/cloud/bigquery/Labels.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
                 </td>
                 <td>
                   0

@@ -74,20 +74,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-container/checkstyle.html#com.google.cloud.container.v1.stub.ClusterManagerStubSettings.java">com/google/cloud/container/v1/stub/ClusterManagerStubSettings.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  15
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-container/checkstyle.html#com.google.cloud.container.v1.SampleApp.java">com/google/cloud/container/v1/SampleApp.java</a>
                 </td>
                 <td>
@@ -102,13 +88,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-container/checkstyle.html#com.google.cloud.container.v1.ClusterManagerSettings.java">com/google/cloud/container/v1/ClusterManagerSettings.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-container/checkstyle.html#com.google.cloud.container.v1.stub.ClusterManagerStubSettings.java">com/google/cloud/container/v1/stub/ClusterManagerStubSettings.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  6
+                  15
                 </td>
                 <td>
                   0
@@ -123,6 +109,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-container/checkstyle.html#com.google.cloud.container.v1.ClusterManagerSettings.java">com/google/cloud/container/v1/ClusterManagerSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
                 </td>
                 <td>
                   0

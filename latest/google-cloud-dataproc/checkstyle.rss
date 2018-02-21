@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 12,
+      <title>File: 11,
              Errors: 0,
-             Warnings: 112,
+             Warnings: 110,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html</link>
@@ -108,7 +108,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  4
+                  5
                 </td>
                 <td>
                   0
@@ -130,20 +130,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.ClusterControllerClient.java">com/google/cloud/dataproc/v1/ClusterControllerClient.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  18
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.package-info.java">com/google/cloud/dataproc/v1/package-info.java</a>
                 </td>
                 <td>
@@ -158,13 +144,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.stub.ClusterControllerStub.java">com/google/cloud/dataproc/v1/stub/ClusterControllerStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.ClusterControllerClient.java">com/google/cloud/dataproc/v1/ClusterControllerClient.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  2
+                  19
                 </td>
                 <td>
                   0
@@ -186,13 +172,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.PagedResponseWrappers.java">com/google/cloud/dataproc/v1/PagedResponseWrappers.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.stub.ClusterControllerStub.java">com/google/cloud/dataproc/v1/stub/ClusterControllerStub.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  4
+                  2
                 </td>
                 <td>
                   0

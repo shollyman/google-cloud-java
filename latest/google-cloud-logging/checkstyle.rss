@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 47,
+      <title>File: 46,
              Errors: 0,
-             Warnings: 414,
+             Warnings: 415,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html</link>
@@ -88,6 +88,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.v2.LoggingClient.java">com/google/cloud/logging/v2/LoggingClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  29
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.MetricInfo.java">com/google/cloud/logging/MetricInfo.java</a>
                 </td>
                 <td>
@@ -109,20 +123,6 @@ under the License.
                 </td>
                 <td>
                   16
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.v2.LoggingClient.java">com/google/cloud/logging/v2/LoggingClient.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  26
                 </td>
                 <td>
                   0
@@ -214,13 +214,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.v2.stub.LoggingServiceV2Stub.java">com/google/cloud/logging/v2/stub/LoggingServiceV2Stub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.HttpRequest.java">com/google/cloud/logging/HttpRequest.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  2
+                  4
                 </td>
                 <td>
                   0
@@ -228,13 +228,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.HttpRequest.java">com/google/cloud/logging/HttpRequest.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.v2.stub.LoggingServiceV2Stub.java">com/google/cloud/logging/v2/stub/LoggingServiceV2Stub.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  1
+                  2
                 </td>
                 <td>
                   0
@@ -326,27 +326,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.LoggingImpl.java">com/google/cloud/logging/LoggingImpl.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.LoggingEnhancer.java">com/google/cloud/logging/LoggingEnhancer.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  20
-                </td>
-                <td>
                   0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.v2.stub.MetricsServiceV2Stub.java">com/google/cloud/logging/v2/stub/MetricsServiceV2Stub.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
                 </td>
                 <td>
                   0
@@ -368,13 +354,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.spi.LoggingRpcFactory.java">com/google/cloud/logging/spi/LoggingRpcFactory.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.v2.stub.MetricsServiceV2Stub.java">com/google/cloud/logging/v2/stub/MetricsServiceV2Stub.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  0
+                  2
                 </td>
                 <td>
                   0
@@ -382,7 +368,21 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.LoggingEnhancer.java">com/google/cloud/logging/LoggingEnhancer.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.LoggingImpl.java">com/google/cloud/logging/LoggingImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  20
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.spi.LoggingRpcFactory.java">com/google/cloud/logging/spi/LoggingRpcFactory.java</a>
                 </td>
                 <td>
                   0
@@ -438,20 +438,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.v2.PagedResponseWrappers.java">com/google/cloud/logging/v2/PagedResponseWrappers.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  8
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.Operation.java">com/google/cloud/logging/Operation.java</a>
                 </td>
                 <td>
@@ -472,7 +458,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  13
+                  14
                 </td>
                 <td>
                   0
@@ -570,7 +556,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  36
+                  38
                 </td>
                 <td>
                   0
@@ -579,20 +565,6 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.LogEntry.java">com/google/cloud/logging/LogEntry.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.SinkInfo.java">com/google/cloud/logging/SinkInfo.java</a>
                 </td>
                 <td>
                   0
@@ -620,6 +592,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.SinkInfo.java">com/google/cloud/logging/SinkInfo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.spi.v2.LoggingRpc.java">com/google/cloud/logging/spi/v2/LoggingRpc.java</a>
                 </td>
                 <td>
@@ -634,20 +620,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.v2.stub.MetricsServiceV2StubSettings.java">com/google/cloud/logging/v2/stub/MetricsServiceV2StubSettings.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  32
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.Metric.java">com/google/cloud/logging/Metric.java</a>
                 </td>
                 <td>
@@ -655,6 +627,20 @@ under the License.
                 </td>
                 <td>
                   2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-logging/checkstyle.html#com.google.cloud.logging.v2.stub.MetricsServiceV2StubSettings.java">com/google/cloud/logging/v2/stub/MetricsServiceV2StubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
                 </td>
                 <td>
                   0

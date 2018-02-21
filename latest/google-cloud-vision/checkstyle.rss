@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 13,
+      <title>File: 12,
              Errors: 0,
-             Warnings: 38,
+             Warnings: 36,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html</link>
@@ -53,90 +53,6 @@ under the License.
                 </td>
                 <td>
                   7
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1.ImageAnnotatorClient.java">com/google/cloud/vision/v1/ImageAnnotatorClient.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1p1beta1.package-info.java">com/google/cloud/vision/v1p1beta1/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1.stub.ImageAnnotatorStub.java">com/google/cloud/vision/v1/stub/ImageAnnotatorStub.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1.stub.GrpcImageAnnotatorStub.java">com/google/cloud/vision/v1/stub/GrpcImageAnnotatorStub.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1p1beta1.stub.ImageAnnotatorStub.java">com/google/cloud/vision/v1p1beta1/stub/ImageAnnotatorStub.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1p1beta1.ImageAnnotatorSettings.java">com/google/cloud/vision/v1p1beta1/ImageAnnotatorSettings.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
                 </td>
                 <td>
                   0
@@ -186,13 +102,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1.PagedResponseWrappers.java">com/google/cloud/vision/v1/PagedResponseWrappers.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1.ImageAnnotatorClient.java">com/google/cloud/vision/v1/ImageAnnotatorClient.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  2
+                  4
                 </td>
                 <td>
                   0
@@ -214,6 +130,62 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1p1beta1.package-info.java">com/google/cloud/vision/v1p1beta1/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1.stub.GrpcImageAnnotatorStub.java">com/google/cloud/vision/v1/stub/GrpcImageAnnotatorStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1.stub.ImageAnnotatorStub.java">com/google/cloud/vision/v1/stub/ImageAnnotatorStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1p1beta1.ImageAnnotatorSettings.java">com/google/cloud/vision/v1p1beta1/ImageAnnotatorSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1p1beta1.ImageAnnotatorClient.java">com/google/cloud/vision/v1p1beta1/ImageAnnotatorClient.java</a>
                 </td>
                 <td>
@@ -221,6 +193,20 @@ under the License.
                 </td>
                 <td>
                   4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-vision/checkstyle.html#com.google.cloud.vision.v1p1beta1.stub.ImageAnnotatorStub.java">com/google/cloud/vision/v1p1beta1/stub/ImageAnnotatorStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0

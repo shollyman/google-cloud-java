@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 18,
+      <title>File: 36,
              Errors: 0,
-             Warnings: 284,
+             Warnings: 370,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html</link>
@@ -46,13 +46,13 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.admin.v2.stub.BigtableTableAdminStubSettings.java">com/google/cloud/bigtable/admin/v2/stub/BigtableTableAdminStubSettings.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.wrappers.RowCell.java">com/google/cloud/bigtable/data/v2/wrappers/RowCell.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  58
+                  7
                 </td>
                 <td>
                   0
@@ -74,13 +74,27 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.stub.BigtableStub.java">com/google/cloud/bigtable/data/v2/stub/BigtableStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.admin.v2.stub.BigtableTableAdminStubSettings.java">com/google/cloud/bigtable/admin/v2/stub/BigtableTableAdminStubSettings.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  2
+                  58
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.BigtableDataClient.java">com/google/cloud/bigtable/data/v2/BigtableDataClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
                 </td>
                 <td>
                   0
@@ -94,7 +108,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  20
+                  19
                 </td>
                 <td>
                   0
@@ -102,27 +116,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.admin.v2.PagedResponseWrappers.java">com/google/cloud/bigtable/admin/v2/PagedResponseWrappers.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.gaxx.reframing.package-info.java">com/google/cloud/bigtable/gaxx/reframing/package-info.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  5
-                </td>
-                <td>
                   0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.admin.v2.package-info.java">com/google/cloud/bigtable/admin/v2/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
                 </td>
                 <td>
                   0
@@ -150,7 +150,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  92
+                  96
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.wrappers.Range.java">com/google/cloud/bigtable/data/v2/wrappers/Range.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
                 </td>
                 <td>
                   0
@@ -164,7 +178,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  25
+                  28
                 </td>
                 <td>
                   0
@@ -172,27 +186,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.stub.GrpcBigtableStub.java">com/google/cloud/bigtable/data/v2/stub/GrpcBigtableStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.gaxx.reframing.Reframer.java">com/google/cloud/bigtable/gaxx/reframing/Reframer.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  6
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.BaseBigtableDataClient.java">com/google/cloud/bigtable/data/v2/BaseBigtableDataClient.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  9
+                  1
                 </td>
                 <td>
                   0
@@ -214,27 +214,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.BaseBigtableDataSettings.java">com/google/cloud/bigtable/data/v2/BaseBigtableDataSettings.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.stub.EnhancedBigtableStub.java">com/google/cloud/bigtable/data/v2/stub/EnhancedBigtableStub.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  2
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.admin.v2.stub.BigtableInstanceAdminStubSettings.java">com/google/cloud/bigtable/admin/v2/stub/BigtableInstanceAdminStubSettings.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  33
+                  4
                 </td>
                 <td>
                   0
@@ -249,6 +235,20 @@ under the License.
                 </td>
                 <td>
                   3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.wrappers.KeyOffset.java">com/google/cloud/bigtable/data/v2/wrappers/KeyOffset.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
                 </td>
                 <td>
                   0
@@ -284,6 +284,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.stub.EnhancedBigtableStubSettings.java">com/google/cloud/bigtable/data/v2/stub/EnhancedBigtableStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  9
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.package-info.java">com/google/cloud/bigtable/data/v2/package-info.java</a>
                 </td>
                 <td>
@@ -291,6 +305,244 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.wrappers.Row.java">com/google/cloud/bigtable/data/v2/wrappers/Row.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.stub.BigtableStub.java">com/google/cloud/bigtable/data/v2/stub/BigtableStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.gaxx.reframing.ReframingResponseObserver.java">com/google/cloud/bigtable/gaxx/reframing/ReframingResponseObserver.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  16
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.wrappers.Query.java">com/google/cloud/bigtable/data/v2/wrappers/Query.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.admin.v2.package-info.java">com/google/cloud/bigtable/admin/v2/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.wrappers.RowAdapter.java">com/google/cloud/bigtable/data/v2/wrappers/RowAdapter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.BaseBigtableDataClient.java">com/google/cloud/bigtable/data/v2/BaseBigtableDataClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  9
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.stub.GrpcBigtableStub.java">com/google/cloud/bigtable/data/v2/stub/GrpcBigtableStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.BigtableDataSettings.java">com/google/cloud/bigtable/data/v2/BigtableDataSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.admin.v2.stub.BigtableInstanceAdminStubSettings.java">com/google/cloud/bigtable/admin/v2/stub/BigtableInstanceAdminStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  33
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.wrappers.DefaultRowAdapter.java">com/google/cloud/bigtable/data/v2/wrappers/DefaultRowAdapter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.BaseBigtableDataSettings.java">com/google/cloud/bigtable/data/v2/BaseBigtableDataSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.gaxx.package-info.java">com/google/cloud/bigtable/gaxx/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.gaxx.reframing.IncompleteStreamException.java">com/google/cloud/bigtable/gaxx/reframing/IncompleteStreamException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.wrappers.Filters.java">com/google/cloud/bigtable/data/v2/wrappers/Filters.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  16
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.internal.RequestContext.java">com/google/cloud/bigtable/data/v2/internal/RequestContext.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-bigtable/checkstyle.html#com.google.cloud.bigtable.data.v2.internal.RegexUtil.java">com/google/cloud/bigtable/data/v2/internal/RegexUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
