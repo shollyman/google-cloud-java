@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<rss version="0.91">
+  <channel>
+    <title>Google Cloud Dialog Flow API - Checkstyle report</title>
+    <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow</link>
+    <description>Google Cloud Dialog Flow API - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2018 Google</copyright>
+    <item>
+      <title>File: 31,
+             Errors: 0,
+             Warnings: 335,
+             Infos: 0
+      </title>
+            <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html</link>
+      <description>
+        <p>Click <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.AgentsClient.java">com/google/cloud/dialogflow/v2beta1/AgentsClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  9
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.EntityTypesClient.java">com/google/cloud/dialogflow/v2beta1/EntityTypesClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  39
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.SessionsClient.java">com/google/cloud/dialogflow/v2beta1/SessionsClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.EntityTypesStub.java">com/google/cloud/dialogflow/v2beta1/stub/EntityTypesStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.IntentsStubSettings.java">com/google/cloud/dialogflow/v2beta1/stub/IntentsStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.AgentsStub.java">com/google/cloud/dialogflow/v2beta1/stub/AgentsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.SessionEntityTypesStub.java">com/google/cloud/dialogflow/v2beta1/stub/SessionEntityTypesStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.ContextsStubSettings.java">com/google/cloud/dialogflow/v2beta1/stub/ContextsStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcSessionsStub.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcSessionsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.ContextsStub.java">com/google/cloud/dialogflow/v2beta1/stub/ContextsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.IntentsClient.java">com/google/cloud/dialogflow/v2beta1/IntentsClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.EntityTypesStubSettings.java">com/google/cloud/dialogflow/v2beta1/stub/EntityTypesStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.SessionEntityTypesSettings.java">com/google/cloud/dialogflow/v2beta1/SessionEntityTypesSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.SessionsStub.java">com/google/cloud/dialogflow/v2beta1/stub/SessionsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.package-info.java">com/google/cloud/dialogflow/v2beta1/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.ContextsClient.java">com/google/cloud/dialogflow/v2beta1/ContextsClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.SessionEntityTypesClient.java">com/google/cloud/dialogflow/v2beta1/SessionEntityTypesClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  25
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcAgentsStub.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcAgentsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcContextsStub.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcContextsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.EntityTypesSettings.java">com/google/cloud/dialogflow/v2beta1/EntityTypesSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.IntentsSettings.java">com/google/cloud/dialogflow/v2beta1/IntentsSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.AgentsStubSettings.java">com/google/cloud/dialogflow/v2beta1/stub/AgentsStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcIntentsStub.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcIntentsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.SessionsStubSettings.java">com/google/cloud/dialogflow/v2beta1/stub/SessionsStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.ContextsSettings.java">com/google/cloud/dialogflow/v2beta1/ContextsSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.IntentsStub.java">com/google/cloud/dialogflow/v2beta1/stub/IntentsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcSessionEntityTypesStub.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcSessionEntityTypesStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.SessionsSettings.java">com/google/cloud/dialogflow/v2beta1/SessionsSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcEntityTypesStub.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcEntityTypesStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.SessionEntityTypesStubSettings.java">com/google/cloud/dialogflow/v2beta1/stub/SessionEntityTypesStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  33
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dialogflow/checkstyle.html#com.google.cloud.dialogflow.v2beta1.AgentsSettings.java">com/google/cloud/dialogflow/v2beta1/AgentsSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
