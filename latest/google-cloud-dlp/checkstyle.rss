@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 13,
+      <title>File: 15,
              Errors: 0,
-             Warnings: 223,
+             Warnings: 227,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dlp/checkstyle.html</link>
@@ -158,6 +158,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dlp/checkstyle.html#com.google.cloud.dlp.v2.stub.GrpcDlpServiceCallableFactory.java">com/google/cloud/dlp/v2/stub/GrpcDlpServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dlp/checkstyle.html#com.google.cloud.dlp.v2.package-info.java">com/google/cloud/dlp/v2/package-info.java</a>
                 </td>
                 <td>
@@ -186,6 +200,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dlp/checkstyle.html#com.google.cloud.dlp.v2.stub.GrpcDlpServiceStub.java">com/google/cloud/dlp/v2/stub/GrpcDlpServiceStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  25
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dlp/checkstyle.html#com.google.cloud.dlp.v2beta1.Colors.java">com/google/cloud/dlp/v2beta1/Colors.java</a>
                 </td>
                 <td>
@@ -200,13 +228,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dlp/checkstyle.html#com.google.cloud.dlp.v2.stub.GrpcDlpServiceStub.java">com/google/cloud/dlp/v2/stub/GrpcDlpServiceStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dlp/checkstyle.html#com.google.cloud.dlp.v2beta1.stub.GrpcDlpServiceCallableFactory.java">com/google/cloud/dlp/v2beta1/stub/GrpcDlpServiceCallableFactory.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  25
+                  2
                 </td>
                 <td>
                   0

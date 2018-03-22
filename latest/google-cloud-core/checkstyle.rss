@@ -144,20 +144,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.testing.BlockingProcessStreamReader.java">com/google/cloud/testing/BlockingProcessStreamReader.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.ServiceOptions.java">com/google/cloud/ServiceOptions.java</a>
                 </td>
                 <td>
@@ -165,6 +151,20 @@ under the License.
                 </td>
                 <td>
                   23
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.testing.BlockingProcessStreamReader.java">com/google/cloud/testing/BlockingProcessStreamReader.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -228,6 +228,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.StringEnumType.java">com/google/cloud/StringEnumType.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.BaseService.java">com/google/cloud/BaseService.java</a>
                 </td>
                 <td>
@@ -256,13 +270,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.StringEnumType.java">com/google/cloud/StringEnumType.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.NoCredentials.java">com/google/cloud/NoCredentials.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  7
+                  1
                 </td>
                 <td>
                   0
@@ -270,7 +284,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.NoCredentials.java">com/google/cloud/NoCredentials.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.BatchResult.java">com/google/cloud/BatchResult.java</a>
                 </td>
                 <td>
                   0
@@ -291,20 +305,6 @@ under the License.
                 </td>
                 <td>
                   0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.BatchResult.java">com/google/cloud/BatchResult.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
                 </td>
                 <td>
                   0
@@ -438,20 +438,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.Restorable.java">com/google/cloud/Restorable.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.RetryOption.java">com/google/cloud/RetryOption.java</a>
                 </td>
                 <td>
@@ -466,7 +452,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.RestorableState.java">com/google/cloud/RestorableState.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.Restorable.java">com/google/cloud/Restorable.java</a>
                 </td>
                 <td>
                   0
@@ -494,7 +480,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.ReadChannel.java">com/google/cloud/ReadChannel.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.RestorableState.java">com/google/cloud/RestorableState.java</a>
                 </td>
                 <td>
                   0
@@ -508,13 +494,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.testing.BaseEmulatorHelper.java">com/google/cloud/testing/BaseEmulatorHelper.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.ReadChannel.java">com/google/cloud/ReadChannel.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  35
+                  0
                 </td>
                 <td>
                   0
@@ -536,13 +522,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.ServiceDefaults.java">com/google/cloud/ServiceDefaults.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.testing.BaseEmulatorHelper.java">com/google/cloud/testing/BaseEmulatorHelper.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  1
+                  35
                 </td>
                 <td>
                   0
@@ -557,6 +543,20 @@ under the License.
                 </td>
                 <td>
                   2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-core/checkstyle.html#com.google.cloud.ServiceDefaults.java">com/google/cloud/ServiceDefaults.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
                 </td>
                 <td>
                   0

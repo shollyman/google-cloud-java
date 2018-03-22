@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 7,
+      <title>File: 8,
              Errors: 0,
-             Warnings: 118,
+             Warnings: 120,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-container/checkstyle.html</link>
@@ -74,6 +74,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-container/checkstyle.html#com.google.cloud.container.v1.SampleApp.java">com/google/cloud/container/v1/SampleApp.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-container/checkstyle.html#com.google.cloud.container.v1.stub.ClusterManagerStubSettings.java">com/google/cloud/container/v1/stub/ClusterManagerStubSettings.java</a>
                 </td>
                 <td>
@@ -88,13 +102,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-container/checkstyle.html#com.google.cloud.container.v1.SampleApp.java">com/google/cloud/container/v1/SampleApp.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-container/checkstyle.html#com.google.cloud.container.v1.package-info.java">com/google/cloud/container/v1/package-info.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  4
+                  0
                 </td>
                 <td>
                   0
@@ -116,13 +130,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-container/checkstyle.html#com.google.cloud.container.v1.package-info.java">com/google/cloud/container/v1/package-info.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-container/checkstyle.html#com.google.cloud.container.v1.stub.GrpcClusterManagerCallableFactory.java">com/google/cloud/container/v1/stub/GrpcClusterManagerCallableFactory.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  0
+                  2
                 </td>
                 <td>
                   0

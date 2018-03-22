@@ -158,20 +158,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.ComputeImpl.java">com/google/cloud/compute/deprecated/ComputeImpl.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  7
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.LicenseId.java">com/google/cloud/compute/deprecated/LicenseId.java</a>
                 </td>
                 <td>
@@ -179,6 +165,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.ComputeImpl.java">com/google/cloud/compute/deprecated/ComputeImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
                 </td>
                 <td>
                   0
@@ -200,7 +200,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.StandardNetworkConfiguration.java">com/google/cloud/compute/deprecated/StandardNetworkConfiguration.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.Subnetwork.java">com/google/cloud/compute/deprecated/Subnetwork.java</a>
                 </td>
                 <td>
                   0
@@ -214,7 +214,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.Subnetwork.java">com/google/cloud/compute/deprecated/Subnetwork.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.StandardNetworkConfiguration.java">com/google/cloud/compute/deprecated/StandardNetworkConfiguration.java</a>
                 </td>
                 <td>
                   0
@@ -326,20 +326,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.ServiceAccount.java">com/google/cloud/compute/deprecated/ServiceAccount.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.Region.java">com/google/cloud/compute/deprecated/Region.java</a>
                 </td>
                 <td>
@@ -347,6 +333,20 @@ under the License.
                 </td>
                 <td>
                   5
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.ServiceAccount.java">com/google/cloud/compute/deprecated/ServiceAccount.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -396,20 +396,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.RegionAddressId.java">com/google/cloud/compute/deprecated/RegionAddressId.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.Snapshot.java">com/google/cloud/compute/deprecated/Snapshot.java</a>
                 </td>
                 <td>
@@ -431,6 +417,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.RegionAddressId.java">com/google/cloud/compute/deprecated/RegionAddressId.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -550,6 +550,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.package-info.java">com/google/cloud/compute/deprecated/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.SubnetworkId.java">com/google/cloud/compute/deprecated/SubnetworkId.java</a>
                 </td>
                 <td>
@@ -571,20 +585,6 @@ under the License.
                 </td>
                 <td>
                   1
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.package-info.java">com/google/cloud/compute/deprecated/package-info.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
                 </td>
                 <td>
                   0
@@ -788,6 +788,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.Zone.java">com/google/cloud/compute/deprecated/Zone.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.NetworkConfiguration.java">com/google/cloud/compute/deprecated/NetworkConfiguration.java</a>
                 </td>
                 <td>
@@ -809,20 +823,6 @@ under the License.
                 </td>
                 <td>
                   0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.Zone.java">com/google/cloud/compute/deprecated/Zone.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
                 </td>
                 <td>
                   0
@@ -970,20 +970,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.DiskId.java">com/google/cloud/compute/deprecated/DiskId.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.ComputeOptions.java">com/google/cloud/compute/deprecated/ComputeOptions.java</a>
                 </td>
                 <td>
@@ -998,7 +984,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.Tags.java">com/google/cloud/compute/deprecated/Tags.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.DiskId.java">com/google/cloud/compute/deprecated/DiskId.java</a>
                 </td>
                 <td>
                   0
@@ -1019,6 +1005,20 @@ under the License.
                 </td>
                 <td>
                   3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-compute/checkstyle.html#com.google.cloud.compute.deprecated.Tags.java">com/google/cloud/compute/deprecated/Tags.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0

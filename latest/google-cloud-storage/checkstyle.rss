@@ -74,20 +74,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html#com.google.cloud.storage.spi.v1.HttpStorageRpcSpans.java">com/google/cloud/storage/spi/v1/HttpStorageRpcSpans.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html#com.google.cloud.storage.StorageFactory.java">com/google/cloud/storage/StorageFactory.java</a>
                 </td>
                 <td>
@@ -95,6 +81,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html#com.google.cloud.storage.spi.v1.HttpStorageRpcSpans.java">com/google/cloud/storage/spi/v1/HttpStorageRpcSpans.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -284,20 +284,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html#com.google.cloud.storage.Storage.java">com/google/cloud/storage/Storage.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  30
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html#com.google.cloud.storage.SignatureInfo.java">com/google/cloud/storage/SignatureInfo.java</a>
                 </td>
                 <td>
@@ -305,6 +291,20 @@ under the License.
                 </td>
                 <td>
                   5
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-storage/checkstyle.html#com.google.cloud.storage.Storage.java">com/google/cloud/storage/Storage.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  30
                 </td>
                 <td>
                   0

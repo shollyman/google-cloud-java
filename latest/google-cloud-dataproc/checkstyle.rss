@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 11,
+      <title>File: 13,
              Errors: 0,
-             Warnings: 110,
+             Warnings: 114,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html</link>
@@ -53,20 +53,6 @@ under the License.
                 </td>
                 <td>
                   32
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.ClusterControllerSettings.java">com/google/cloud/dataproc/v1/ClusterControllerSettings.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
                 </td>
                 <td>
                   0
@@ -102,27 +88,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.JobControllerClient.java">com/google/cloud/dataproc/v1/JobControllerClient.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.package-info.java">com/google/cloud/dataproc/v1/package-info.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  5
-                </td>
-                <td>
                   0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.stub.JobControllerStub.java">com/google/cloud/dataproc/v1/stub/JobControllerStub.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
                 </td>
                 <td>
                   0
@@ -144,13 +116,83 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.package-info.java">com/google/cloud/dataproc/v1/package-info.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.stub.GrpcJobControllerStub.java">com/google/cloud/dataproc/v1/stub/GrpcJobControllerStub.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
+                  6
+                </td>
+                <td>
                   0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.ClusterControllerSettings.java">com/google/cloud/dataproc/v1/ClusterControllerSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.JobControllerClient.java">com/google/cloud/dataproc/v1/JobControllerClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.stub.GrpcClusterControllerCallableFactory.java">com/google/cloud/dataproc/v1/stub/GrpcClusterControllerCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.stub.JobControllerStub.java">com/google/cloud/dataproc/v1/stub/JobControllerStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.stub.GrpcJobControllerCallableFactory.java">com/google/cloud/dataproc/v1/stub/GrpcJobControllerCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -165,20 +207,6 @@ under the License.
                 </td>
                 <td>
                   2
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-dataproc/checkstyle.html#com.google.cloud.dataproc.v1.stub.GrpcJobControllerStub.java">com/google/cloud/dataproc/v1/stub/GrpcJobControllerStub.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  6
                 </td>
                 <td>
                   0

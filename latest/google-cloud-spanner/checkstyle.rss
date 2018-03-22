@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 79,
+      <title>File: 82,
              Errors: 0,
-             Warnings: 529,
+             Warnings: 535,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html</link>
@@ -46,20 +46,6 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.DatabaseInfo.java">com/google/cloud/spanner/DatabaseInfo.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.ForwardingResultSet.java">com/google/cloud/spanner/ForwardingResultSet.java</a>
                 </td>
                 <td>
@@ -74,7 +60,21 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.Partition.java">com/google/cloud/spanner/Partition.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.DatabaseInfo.java">com/google/cloud/spanner/DatabaseInfo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.admin.database.v1.stub.DatabaseAdminStub.java">com/google/cloud/spanner/admin/database/v1/stub/DatabaseAdminStub.java</a>
                 </td>
                 <td>
                   0
@@ -102,7 +102,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.admin.database.v1.stub.DatabaseAdminStub.java">com/google/cloud/spanner/admin/database/v1/stub/DatabaseAdminStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.Partition.java">com/google/cloud/spanner/Partition.java</a>
                 </td>
                 <td>
                   0
@@ -130,20 +130,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.spi.v1.SpannerErrorInterceptor.java">com/google/cloud/spanner/spi/v1/SpannerErrorInterceptor.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.v1.package-info.java">com/google/cloud/spanner/v1/package-info.java</a>
                 </td>
                 <td>
@@ -151,6 +137,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.spi.v1.SpannerErrorInterceptor.java">com/google/cloud/spanner/spi/v1/SpannerErrorInterceptor.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -214,6 +214,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.admin.database.v1.DatabaseAdminClient.java">com/google/cloud/spanner/admin/database/v1/DatabaseAdminClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  18
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.TraceUtil.java">com/google/cloud/spanner/TraceUtil.java</a>
                 </td>
                 <td>
@@ -228,13 +242,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.admin.database.v1.DatabaseAdminClient.java">com/google/cloud/spanner/admin/database/v1/DatabaseAdminClient.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.DatabaseAdminClient.java">com/google/cloud/spanner/DatabaseAdminClient.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  18
+                  1
                 </td>
                 <td>
                   0
@@ -256,13 +270,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.DatabaseAdminClient.java">com/google/cloud/spanner/DatabaseAdminClient.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.admin.instance.v1.stub.GrpcInstanceAdminCallableFactory.java">com/google/cloud/spanner/admin/instance/v1/stub/GrpcInstanceAdminCallableFactory.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  1
+                  2
                 </td>
                 <td>
                   0
@@ -319,6 +333,20 @@ under the License.
                 </td>
                 <td>
                   16
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.v1.stub.GrpcSpannerCallableFactory.java">com/google/cloud/spanner/v1/stub/GrpcSpannerCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -410,20 +438,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.v1.stub.SpannerStubSettings.java">com/google/cloud/spanner/v1/stub/SpannerStubSettings.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  32
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.package-info.java">com/google/cloud/spanner/package-info.java</a>
                 </td>
                 <td>
@@ -431,6 +445,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.v1.stub.SpannerStubSettings.java">com/google/cloud/spanner/v1/stub/SpannerStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
                 </td>
                 <td>
                   0
@@ -592,20 +620,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.Statement.java">com/google/cloud/spanner/Statement.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.BatchReadOnlyTransaction.java">com/google/cloud/spanner/BatchReadOnlyTransaction.java</a>
                 </td>
                 <td>
@@ -613,6 +627,20 @@ under the License.
                 </td>
                 <td>
                   3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.Statement.java">com/google/cloud/spanner/Statement.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
                 </td>
                 <td>
                   0
@@ -858,20 +886,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.Spanner.java">com/google/cloud/spanner/Spanner.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.admin.database.v1.stub.DatabaseAdminStubSettings.java">com/google/cloud/spanner/admin/database/v1/stub/DatabaseAdminStubSettings.java</a>
                 </td>
                 <td>
@@ -879,6 +893,34 @@ under the License.
                 </td>
                 <td>
                   32
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.admin.database.v1.stub.GrpcDatabaseAdminCallableFactory.java">com/google/cloud/spanner/admin/database/v1/stub/GrpcDatabaseAdminCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.Spanner.java">com/google/cloud/spanner/Spanner.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
                 </td>
                 <td>
                   0
@@ -998,20 +1040,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.DatabaseClientImpl.java">com/google/cloud/spanner/DatabaseClientImpl.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.ReadContext.java">com/google/cloud/spanner/ReadContext.java</a>
                 </td>
                 <td>
@@ -1019,6 +1047,20 @@ under the License.
                 </td>
                 <td>
                   2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.DatabaseClientImpl.java">com/google/cloud/spanner/DatabaseClientImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -1068,20 +1110,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.Options.java">com/google/cloud/spanner/Options.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  11
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.ResultSets.java">com/google/cloud/spanner/ResultSets.java</a>
                 </td>
                 <td>
@@ -1089,6 +1117,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-spanner/checkstyle.html#com.google.cloud.spanner.Options.java">com/google/cloud/spanner/Options.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
                 </td>
                 <td>
                   0

@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 12,
+      <title>File: 14,
              Errors: 0,
-             Warnings: 60,
+             Warnings: 64,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html</link>
@@ -74,20 +74,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1beta2.LanguageServiceSettings.java">com/google/cloud/language/v1beta2/LanguageServiceSettings.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1.package-info.java">com/google/cloud/language/v1/package-info.java</a>
                 </td>
                 <td>
@@ -102,7 +88,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1.stub.LanguageServiceStub.java">com/google/cloud/language/v1/stub/LanguageServiceStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1beta2.stub.GrpcLanguageServiceCallableFactory.java">com/google/cloud/language/v1beta2/stub/GrpcLanguageServiceCallableFactory.java</a>
                 </td>
                 <td>
                   0
@@ -144,20 +130,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1.stub.LanguageServiceStubSettings.java">com/google/cloud/language/v1/stub/LanguageServiceStubSettings.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  7
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1beta2.LanguageServiceClient.java">com/google/cloud/language/v1beta2/LanguageServiceClient.java</a>
                 </td>
                 <td>
@@ -165,6 +137,20 @@ under the License.
                 </td>
                 <td>
                   13
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1beta2.package-info.java">com/google/cloud/language/v1beta2/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -186,7 +172,49 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1beta2.stub.LanguageServiceStubSettings.java">com/google/cloud/language/v1beta2/stub/LanguageServiceStubSettings.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1.stub.GrpcLanguageServiceCallableFactory.java">com/google/cloud/language/v1/stub/GrpcLanguageServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1beta2.LanguageServiceSettings.java">com/google/cloud/language/v1beta2/LanguageServiceSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1.stub.LanguageServiceStub.java">com/google/cloud/language/v1/stub/LanguageServiceStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1.stub.LanguageServiceStubSettings.java">com/google/cloud/language/v1/stub/LanguageServiceStubSettings.java</a>
                 </td>
                 <td>
                   0
@@ -200,13 +228,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1beta2.package-info.java">com/google/cloud/language/v1beta2/package-info.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-language/checkstyle.html#com.google.cloud.language.v1beta2.stub.LanguageServiceStubSettings.java">com/google/cloud/language/v1beta2/stub/LanguageServiceStubSettings.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  0
+                  7
                 </td>
                 <td>
                   0

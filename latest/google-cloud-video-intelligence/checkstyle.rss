@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 18,
+      <title>File: 28,
              Errors: 0,
-             Warnings: 93,
+             Warnings: 132,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html</link>
@@ -46,13 +46,27 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta1.stub.VideoIntelligenceServiceStubSettings.java">com/google/cloud/videointelligence/v1beta1/stub/VideoIntelligenceServiceStubSettings.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.VideoIntelligenceServiceClient.java">com/google/cloud/videointelligence/v1p1beta1/VideoIntelligenceServiceClient.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  8
+                  13
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.stub.GrpcVideoIntelligenceServiceCallableFactory.java">com/google/cloud/videointelligence/v1p1beta1/stub/GrpcVideoIntelligenceServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -88,13 +102,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta1.VideoIntelligenceServiceSettings.java">com/google/cloud/videointelligence/v1beta1/VideoIntelligenceServiceSettings.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.stub.VideoIntelligenceServiceStub.java">com/google/cloud/videointelligence/v1p1beta1/stub/VideoIntelligenceServiceStub.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  3
+                  2
                 </td>
                 <td>
                   0
@@ -102,13 +116,27 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta2.VideoIntelligenceServiceSettings.java">com/google/cloud/videointelligence/v1beta2/VideoIntelligenceServiceSettings.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta1.stub.GrpcVideoIntelligenceServiceCallableFactory.java">com/google/cloud/videointelligence/v1beta1/stub/GrpcVideoIntelligenceServiceCallableFactory.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  3
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.stub.VideoIntelligenceServiceStubSettings.java">com/google/cloud/videointelligence/v1p1beta1/stub/VideoIntelligenceServiceStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
                 </td>
                 <td>
                   0
@@ -130,34 +158,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta2.stub.GrpcVideoIntelligenceServiceStub.java">com/google/cloud/videointelligence/v1beta2/stub/GrpcVideoIntelligenceServiceStub.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta1.stub.VideoIntelligenceServiceStub.java">com/google/cloud/videointelligence/v1beta1/stub/VideoIntelligenceServiceStub.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta2.VideoIntelligenceServiceClient.java">com/google/cloud/videointelligence/v1beta2/VideoIntelligenceServiceClient.java</a>
                 </td>
                 <td>
@@ -172,7 +172,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta2.package-info.java">com/google/cloud/videointelligence/v1beta2/package-info.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta1.stub.VideoIntelligenceServiceStub.java">com/google/cloud/videointelligence/v1beta1/stub/VideoIntelligenceServiceStub.java</a>
                 </td>
                 <td>
                   0
@@ -214,7 +214,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1.VideoIntelligenceServiceSettings.java">com/google/cloud/videointelligence/v1/VideoIntelligenceServiceSettings.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta1.stub.GrpcVideoIntelligenceServiceStub.java">com/google/cloud/videointelligence/v1beta1/stub/GrpcVideoIntelligenceServiceStub.java</a>
                 </td>
                 <td>
                   0
@@ -228,7 +228,133 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta1.stub.GrpcVideoIntelligenceServiceStub.java">com/google/cloud/videointelligence/v1beta1/stub/GrpcVideoIntelligenceServiceStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.package-info.java">com/google/cloud/videointelligence/v1p1beta1/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta1.package-info.java">com/google/cloud/videointelligence/v1beta1/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.VideoIntelligenceServiceSettings.java">com/google/cloud/videointelligence/v1p1beta1/VideoIntelligenceServiceSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta1.stub.VideoIntelligenceServiceStubSettings.java">com/google/cloud/videointelligence/v1beta1/stub/VideoIntelligenceServiceStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.stub.GrpcVideoIntelligenceServiceStub.java">com/google/cloud/videointelligence/v1p1beta1/stub/GrpcVideoIntelligenceServiceStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta2.VideoIntelligenceServiceSettings.java">com/google/cloud/videointelligence/v1beta2/VideoIntelligenceServiceSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta1.VideoIntelligenceServiceSettings.java">com/google/cloud/videointelligence/v1beta1/VideoIntelligenceServiceSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta2.stub.GrpcVideoIntelligenceServiceStub.java">com/google/cloud/videointelligence/v1beta2/stub/GrpcVideoIntelligenceServiceStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta2.package-info.java">com/google/cloud/videointelligence/v1beta2/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1.VideoIntelligenceServiceSettings.java">com/google/cloud/videointelligence/v1/VideoIntelligenceServiceSettings.java</a>
                 </td>
                 <td>
                   0
@@ -256,6 +382,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1.stub.GrpcVideoIntelligenceServiceCallableFactory.java">com/google/cloud/videointelligence/v1/stub/GrpcVideoIntelligenceServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta1.VideoIntelligenceServiceClient.java">com/google/cloud/videointelligence/v1beta1/VideoIntelligenceServiceClient.java</a>
                 </td>
                 <td>
@@ -270,7 +410,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta1.package-info.java">com/google/cloud/videointelligence/v1beta1/package-info.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1.stub.VideoIntelligenceServiceStub.java">com/google/cloud/videointelligence/v1/stub/VideoIntelligenceServiceStub.java</a>
                 </td>
                 <td>
                   0
@@ -284,7 +424,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1.stub.VideoIntelligenceServiceStub.java">com/google/cloud/videointelligence/v1/stub/VideoIntelligenceServiceStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-video-intelligence/checkstyle.html#com.google.cloud.videointelligence.v1beta2.stub.GrpcVideoIntelligenceServiceCallableFactory.java">com/google/cloud/videointelligence/v1beta2/stub/GrpcVideoIntelligenceServiceCallableFactory.java</a>
                 </td>
                 <td>
                   0

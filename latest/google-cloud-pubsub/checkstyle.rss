@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 21,
+      <title>File: 23,
              Errors: 0,
-             Warnings: 314,
+             Warnings: 318,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-pubsub/checkstyle.html</link>
@@ -130,20 +130,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-pubsub/checkstyle.html#com.google.cloud.pubsub.v1.PublisherStats.java">com/google/cloud/pubsub/v1/PublisherStats.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-pubsub/checkstyle.html#com.google.cloud.pubsub.v1.MessageReceiver.java">com/google/cloud/pubsub/v1/MessageReceiver.java</a>
                 </td>
                 <td>
@@ -159,6 +145,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-pubsub/checkstyle.html#com.google.cloud.pubsub.v1.SubscriberStats.java">com/google/cloud/pubsub/v1/SubscriberStats.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-pubsub/checkstyle.html#com.google.cloud.pubsub.v1.PublisherStats.java">com/google/cloud/pubsub/v1/PublisherStats.java</a>
                 </td>
                 <td>
                   0
@@ -242,6 +242,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-pubsub/checkstyle.html#com.google.cloud.pubsub.v1.stub.GrpcSubscriberCallableFactory.java">com/google/cloud/pubsub/v1/stub/GrpcSubscriberCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-pubsub/checkstyle.html#com.google.cloud.pubsub.v1.SubscriptionAdminSettings.java">com/google/cloud/pubsub/v1/SubscriptionAdminSettings.java</a>
                 </td>
                 <td>
@@ -256,20 +270,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-pubsub/checkstyle.html#com.google.cloud.pubsub.v1.stub.GrpcSubscriberStub.java">com/google/cloud/pubsub/v1/stub/GrpcSubscriberStub.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  18
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-pubsub/checkstyle.html#com.google.cloud.pubsub.v1.Subscriber.java">com/google/cloud/pubsub/v1/Subscriber.java</a>
                 </td>
                 <td>
@@ -277,6 +277,20 @@ under the License.
                 </td>
                 <td>
                   13
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-pubsub/checkstyle.html#com.google.cloud.pubsub.v1.stub.GrpcSubscriberStub.java">com/google/cloud/pubsub/v1/stub/GrpcSubscriberStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  18
                 </td>
                 <td>
                   0
@@ -333,6 +347,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-pubsub/checkstyle.html#com.google.cloud.pubsub.v1.stub.GrpcPublisherCallableFactory.java">com/google/cloud/pubsub/v1/stub/GrpcPublisherCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0

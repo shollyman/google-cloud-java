@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 6,
+      <title>File: 7,
              Errors: 0,
-             Warnings: 33,
+             Warnings: 35,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-os-login/checkstyle.html</link>
@@ -88,13 +88,27 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-os-login/checkstyle.html#com.google.cloud.oslogin.v1.stub.GrpcOsLoginServiceStub.java">com/google/cloud/oslogin/v1/stub/GrpcOsLoginServiceStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-os-login/checkstyle.html#com.google.cloud.oslogin.v1.stub.GrpcOsLoginServiceCallableFactory.java">com/google/cloud/oslogin/v1/stub/GrpcOsLoginServiceCallableFactory.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  6
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-os-login/checkstyle.html#com.google.cloud.oslogin.v1.package-info.java">com/google/cloud/oslogin/v1/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -116,13 +130,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-os-login/checkstyle.html#com.google.cloud.oslogin.v1.package-info.java">com/google/cloud/oslogin/v1/package-info.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-os-login/checkstyle.html#com.google.cloud.oslogin.v1.stub.GrpcOsLoginServiceStub.java">com/google/cloud/oslogin/v1/stub/GrpcOsLoginServiceStub.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  0
+                  6
                 </td>
                 <td>
                   0

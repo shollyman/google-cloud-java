@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 26,
+      <title>File: 31,
              Errors: 0,
-             Warnings: 552,
+             Warnings: 563,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html</link>
@@ -44,6 +44,20 @@ under the License.
             </tr>
           </thead>
           <tbody>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html#com.google.cloud.monitoring.v3.stub.GrpcAlertPolicyServiceCallableFactory.java">com/google/cloud/monitoring/v3/stub/GrpcAlertPolicyServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html#com.google.cloud.monitoring.v3.stub.GrpcGroupServiceStub.java">com/google/cloud/monitoring/v3/stub/GrpcGroupServiceStub.java</a>
@@ -102,7 +116,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html#com.google.cloud.monitoring.v3.GroupServiceSettings.java">com/google/cloud/monitoring/v3/GroupServiceSettings.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html#com.google.cloud.monitoring.v3.stub.GroupServiceStub.java">com/google/cloud/monitoring/v3/stub/GroupServiceStub.java</a>
                 </td>
                 <td>
                   0
@@ -116,7 +130,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html#com.google.cloud.monitoring.v3.stub.GroupServiceStub.java">com/google/cloud/monitoring/v3/stub/GroupServiceStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html#com.google.cloud.monitoring.v3.GroupServiceSettings.java">com/google/cloud/monitoring/v3/GroupServiceSettings.java</a>
                 </td>
                 <td>
                   0
@@ -158,20 +172,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html#com.google.cloud.monitoring.v3.NotificationChannelServiceSettings.java">com/google/cloud/monitoring/v3/NotificationChannelServiceSettings.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html#com.google.cloud.monitoring.v3.MetricServiceClient.java">com/google/cloud/monitoring/v3/MetricServiceClient.java</a>
                 </td>
                 <td>
@@ -179,6 +179,20 @@ under the License.
                 </td>
                 <td>
                   43
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html#com.google.cloud.monitoring.v3.NotificationChannelServiceSettings.java">com/google/cloud/monitoring/v3/NotificationChannelServiceSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
                 </td>
                 <td>
                   0
@@ -220,7 +234,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  10
+                  11
                 </td>
                 <td>
                   0
@@ -291,6 +305,20 @@ under the License.
                 </td>
                 <td>
                   58
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html#com.google.cloud.monitoring.v3.stub.GrpcMetricServiceCallableFactory.java">com/google/cloud/monitoring/v3/stub/GrpcMetricServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -389,6 +417,48 @@ under the License.
                 </td>
                 <td>
                   5
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html#com.google.cloud.monitoring.v3.stub.GrpcNotificationChannelServiceCallableFactory.java">com/google/cloud/monitoring/v3/stub/GrpcNotificationChannelServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html#com.google.cloud.monitoring.v3.stub.GrpcGroupServiceCallableFactory.java">com/google/cloud/monitoring/v3/stub/GrpcGroupServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-monitoring/checkstyle.html#com.google.cloud.monitoring.v3.stub.GrpcUptimeCheckServiceCallableFactory.java">com/google/cloud/monitoring/v3/stub/GrpcUptimeCheckServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0

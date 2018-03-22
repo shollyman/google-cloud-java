@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 18,
+      <title>File: 21,
              Errors: 0,
-             Warnings: 67,
+             Warnings: 73,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html</link>
@@ -60,7 +60,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html#com.google.cloud.speech.v1beta1.SpeechSettings.java">com/google/cloud/speech/v1beta1/SpeechSettings.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html#com.google.cloud.speech.v1p1beta1.stub.GrpcSpeechCallableFactory.java">com/google/cloud/speech/v1p1beta1/stub/GrpcSpeechCallableFactory.java</a>
                 </td>
                 <td>
                   0
@@ -74,7 +74,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html#com.google.cloud.speech.v1beta1.stub.SpeechStub.java">com/google/cloud/speech/v1beta1/stub/SpeechStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html#com.google.cloud.speech.v1beta1.SpeechSettings.java">com/google/cloud/speech/v1beta1/SpeechSettings.java</a>
                 </td>
                 <td>
                   0
@@ -95,6 +95,20 @@ under the License.
                 </td>
                 <td>
                   7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html#com.google.cloud.speech.v1beta1.stub.SpeechStub.java">com/google/cloud/speech/v1beta1/stub/SpeechStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -186,13 +200,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html#com.google.cloud.speech.v1.stub.GrpcSpeechStub.java">com/google/cloud/speech/v1/stub/GrpcSpeechStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html#com.google.cloud.speech.v1beta1.stub.GrpcSpeechCallableFactory.java">com/google/cloud/speech/v1beta1/stub/GrpcSpeechCallableFactory.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  4
+                  2
                 </td>
                 <td>
                   0
@@ -200,7 +214,21 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html#com.google.cloud.speech.v1beta1.stub.GrpcSpeechStub.java">com/google/cloud/speech/v1beta1/stub/GrpcSpeechStub.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html#com.google.cloud.speech.v1.stub.GrpcSpeechCallableFactory.java">com/google/cloud/speech/v1/stub/GrpcSpeechCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html#com.google.cloud.speech.v1.stub.GrpcSpeechStub.java">com/google/cloud/speech/v1/stub/GrpcSpeechStub.java</a>
                 </td>
                 <td>
                   0
@@ -228,13 +256,13 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html#com.google.cloud.speech.v1beta1.package-info.java">com/google/cloud/speech/v1beta1/package-info.java</a>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html#com.google.cloud.speech.v1beta1.stub.GrpcSpeechStub.java">com/google/cloud/speech/v1beta1/stub/GrpcSpeechStub.java</a>
                 </td>
                 <td>
                   0
                 </td>
                 <td>
-                  0
+                  4
                 </td>
                 <td>
                   0
@@ -249,6 +277,20 @@ under the License.
                 </td>
                 <td>
                   7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/tree/master/google-cloud-speech/checkstyle.html#com.google.cloud.speech.v1beta1.package-info.java">com/google/cloud/speech/v1beta1/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0

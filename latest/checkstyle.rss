@@ -25,9 +25,9 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2018 Google</copyright>
     <item>
-      <title>File: 883,
+      <title>File: 945,
              Errors: 0,
-             Warnings: 5084,
+             Warnings: 5262,
              Infos: 0
       </title>
             <link>https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html</link>
@@ -220,7 +220,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  11
+                  13
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.texttospeech.v1beta1.stub.GrpcTextToSpeechStub.java">com/google/cloud/texttospeech/v1beta1/stub/GrpcTextToSpeechStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
                 </td>
                 <td>
                   0
@@ -319,6 +333,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.stub.GrpcVideoIntelligenceServiceStub.java">com/google/cloud/videointelligence/v1p1beta1/stub/GrpcVideoIntelligenceServiceStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
                 </td>
                 <td>
                   0
@@ -473,6 +501,34 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.videointelligence.v1beta2.stub.GrpcVideoIntelligenceServiceCallableFactory.java">com/google/cloud/videointelligence/v1beta2/stub/GrpcVideoIntelligenceServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.VideoIntelligenceServiceClient.java">com/google/cloud/videointelligence/v1p1beta1/VideoIntelligenceServiceClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  13
                 </td>
                 <td>
                   0
@@ -746,6 +802,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.texttospeech.v1beta1.TextToSpeechClient.java">com/google/cloud/texttospeech/v1beta1/TextToSpeechClient.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.spanner.ResultSets.java">com/google/cloud/spanner/ResultSets.java</a>
                 </td>
                 <td>
@@ -795,6 +865,20 @@ under the License.
                 </td>
                 <td>
                   12
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcSessionEntityTypesCallableFactory.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcSessionEntityTypesCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -1068,6 +1152,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigtable.data.v2.stub.GrpcBigtableCallableFactory.java">com/google/cloud/bigtable/data/v2/stub/GrpcBigtableCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigquery.TableId.java">com/google/cloud/bigquery/TableId.java</a>
                 </td>
                 <td>
@@ -1152,6 +1250,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.speech.v1.stub.GrpcSpeechCallableFactory.java">com/google/cloud/speech/v1/stub/GrpcSpeechCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.examples.nio.snippets.CreateInputStream.java">com/google/cloud/examples/nio/snippets/CreateInputStream.java</a>
                 </td>
                 <td>
@@ -1173,6 +1285,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigtable.data.v2.models.InstanceName.java">com/google/cloud/bigtable/data/v2/models/InstanceName.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
                 </td>
                 <td>
                   0
@@ -1404,20 +1530,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.logging.v2.stub.MetricsServiceV2Stub.java">com/google/cloud/logging/v2/stub/MetricsServiceV2Stub.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.logging.LoggingEnhancer.java">com/google/cloud/logging/LoggingEnhancer.java</a>
                 </td>
                 <td>
@@ -1425,6 +1537,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.logging.v2.stub.MetricsServiceV2Stub.java">com/google/cloud/logging/v2/stub/MetricsServiceV2Stub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -1467,6 +1593,20 @@ under the License.
                 </td>
                 <td>
                   32
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.texttospeech.v1beta1.stub.GrpcTextToSpeechCallableFactory.java">com/google/cloud/texttospeech/v1beta1/stub/GrpcTextToSpeechCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -1768,6 +1908,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dlp.v2beta1.stub.GrpcDlpServiceCallableFactory.java">com/google/cloud/dlp/v2beta1/stub/GrpcDlpServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.datastore.DatastoreHelper.java">com/google/cloud/datastore/DatastoreHelper.java</a>
                 </td>
                 <td>
@@ -1803,6 +1957,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.trace.v2.stub.GrpcTraceServiceCallableFactory.java">com/google/cloud/trace/v2/stub/GrpcTraceServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -1979,6 +2147,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.videointelligence.v1.stub.VideoIntelligenceServiceStub.java">com/google/cloud/videointelligence/v1/stub/VideoIntelligenceServiceStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.texttospeech.v1beta1.TextToSpeechSettings.java">com/google/cloud/texttospeech/v1beta1/TextToSpeechSettings.java</a>
                 </td>
                 <td>
                   0
@@ -2692,6 +2874,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.trace.v1.stub.GrpcTraceServiceCallableFactory.java">com/google/cloud/trace/v1/stub/GrpcTraceServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.datastore.testing.LocalDatastoreHelper.java">com/google/cloud/datastore/testing/LocalDatastoreHelper.java</a>
                 </td>
                 <td>
@@ -3112,6 +3308,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.firestore.v1beta1.stub.GrpcFirestoreCallableFactory.java">com/google/cloud/firestore/v1beta1/stub/GrpcFirestoreCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.firestore.v1beta1.FirestoreClient.java">com/google/cloud/firestore/v1beta1/FirestoreClient.java</a>
                 </td>
                 <td>
@@ -3210,6 +3420,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.texttospeech.v1beta1.stub.TextToSpeechStubSettings.java">com/google/cloud/texttospeech/v1beta1/stub/TextToSpeechStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.language.v1.LanguageServiceClient.java">com/google/cloud/language/v1/LanguageServiceClient.java</a>
                 </td>
                 <td>
@@ -3266,20 +3490,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigtable.gaxx.reframing.Reframer.java">com/google/cloud/bigtable/gaxx/reframing/Reframer.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigtable.data.v2.stub.SampleRowKeysCallable.java">com/google/cloud/bigtable/data/v2/stub/SampleRowKeysCallable.java</a>
                 </td>
                 <td>
@@ -3287,6 +3497,20 @@ under the License.
                 </td>
                 <td>
                   2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigtable.gaxx.reframing.Reframer.java">com/google/cloud/bigtable/gaxx/reframing/Reframer.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
                 </td>
                 <td>
                   0
@@ -3322,20 +3546,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.examples.bigquery.snippets.TableSnippets.java">com/google/cloud/examples/bigquery/snippets/TableSnippets.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  7
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.examples.pubsub.snippets.CreateSubscriptionAndConsumeMessages.java">com/google/cloud/examples/pubsub/snippets/CreateSubscriptionAndConsumeMessages.java</a>
                 </td>
                 <td>
@@ -3343,6 +3553,20 @@ under the License.
                 </td>
                 <td>
                   4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.examples.bigquery.snippets.TableSnippets.java">com/google/cloud/examples/bigquery/snippets/TableSnippets.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
                 </td>
                 <td>
                   0
@@ -3448,6 +3672,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.logging.logback.LoggingEventEnhancer.java">com/google/cloud/logging/logback/LoggingEventEnhancer.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.RetryHelper.java">com/google/cloud/RetryHelper.java</a>
                 </td>
                 <td>
@@ -3483,6 +3721,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcContextsCallableFactory.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcContextsCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -3595,6 +3847,20 @@ under the License.
                 </td>
                 <td>
                   3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigtable.admin.v2.stub.GrpcBigtableInstanceAdminCallableFactory.java">com/google/cloud/bigtable/admin/v2/stub/GrpcBigtableInstanceAdminCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -3889,6 +4155,20 @@ under the License.
                 </td>
                 <td>
                   82
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.texttospeech.v1beta1.package-info.java">com/google/cloud/texttospeech/v1beta1/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
                 </td>
                 <td>
                   0
@@ -4666,6 +4946,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.package-info.java">com/google/cloud/videointelligence/v1p1beta1/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigtable.data.v2.models.KeyOffset.java">com/google/cloud/bigtable/data/v2/models/KeyOffset.java</a>
                 </td>
                 <td>
@@ -4862,6 +5156,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dataproc.v1.stub.GrpcJobControllerCallableFactory.java">com/google/cloud/dataproc/v1/stub/GrpcJobControllerCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigtable.data.v2.internal.RequestContext.java">com/google/cloud/bigtable/data/v2/internal/RequestContext.java</a>
                 </td>
                 <td>
@@ -5002,6 +5310,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.logging.v2.stub.GrpcMetricsServiceV2CallableFactory.java">com/google/cloud/logging/v2/stub/GrpcMetricsServiceV2CallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.vision.v1p2beta1.stub.ImageAnnotatorStub.java">com/google/cloud/vision/v1p2beta1/stub/ImageAnnotatorStub.java</a>
                 </td>
                 <td>
@@ -5107,6 +5429,20 @@ under the License.
                 </td>
                 <td>
                   3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.spanner.v1.stub.GrpcSpannerCallableFactory.java">com/google/cloud/spanner/v1/stub/GrpcSpannerCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -5660,6 +5996,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.errorreporting.v1beta1.stub.GrpcErrorStatsServiceCallableFactory.java">com/google/cloud/errorreporting/v1beta1/stub/GrpcErrorStatsServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.storage.contrib.nio.CloudStorageFileAttributes.java">com/google/cloud/storage/contrib/nio/CloudStorageFileAttributes.java</a>
                 </td>
                 <td>
@@ -5723,6 +6073,20 @@ under the License.
                 </td>
                 <td>
                   16
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dlp.v2.stub.GrpcDlpServiceCallableFactory.java">com/google/cloud/dlp/v2/stub/GrpcDlpServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -6514,20 +6878,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.firestore.DocumentSnapshot.java">com/google/cloud/firestore/DocumentSnapshot.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  12
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.firestore.DocumentChange.java">com/google/cloud/firestore/DocumentChange.java</a>
                 </td>
                 <td>
@@ -6535,6 +6885,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.firestore.DocumentSnapshot.java">com/google/cloud/firestore/DocumentSnapshot.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
                 </td>
                 <td>
                   0
@@ -6646,7 +7010,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  36
+                  50
                 </td>
                 <td>
                   0
@@ -6661,6 +7025,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.vision.v1p2beta1.stub.GrpcImageAnnotatorCallableFactory.java">com/google/cloud/vision/v1p2beta1/stub/GrpcImageAnnotatorCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -6703,6 +7081,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.vision.v1.stub.GrpcImageAnnotatorCallableFactory.java">com/google/cloud/vision/v1/stub/GrpcImageAnnotatorCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -6884,7 +7276,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  4
+                  5
                 </td>
                 <td>
                   0
@@ -7088,6 +7480,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.videointelligence.v1beta1.stub.GrpcVideoIntelligenceServiceCallableFactory.java">com/google/cloud/videointelligence/v1beta1/stub/GrpcVideoIntelligenceServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.speech.v1p1beta1.stub.SpeechStub.java">com/google/cloud/speech/v1p1beta1/stub/SpeechStub.java</a>
                 </td>
                 <td>
@@ -7228,6 +7634,34 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.container.v1.stub.GrpcClusterManagerCallableFactory.java">com/google/cloud/container/v1/stub/GrpcClusterManagerCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.spanner.admin.database.v1.stub.GrpcDatabaseAdminCallableFactory.java">com/google/cloud/spanner/admin/database/v1/stub/GrpcDatabaseAdminCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigquery.DatastoreBackupOptions.java">com/google/cloud/bigquery/DatastoreBackupOptions.java</a>
                 </td>
                 <td>
@@ -7340,6 +7774,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.logging.v2.stub.GrpcConfigServiceV2CallableFactory.java">com/google/cloud/logging/v2/stub/GrpcConfigServiceV2CallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.firestore.Firestore.java">com/google/cloud/firestore/Firestore.java</a>
                 </td>
                 <td>
@@ -7361,6 +7809,34 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.monitoring.v3.stub.GrpcNotificationChannelServiceCallableFactory.java">com/google/cloud/monitoring/v3/stub/GrpcNotificationChannelServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.monitoring.v3.stub.GrpcGroupServiceCallableFactory.java">com/google/cloud/monitoring/v3/stub/GrpcGroupServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -7410,20 +7886,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcEntityTypesStub.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcEntityTypesStub.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  11
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dialogflow.v2beta1.SessionsSettings.java">com/google/cloud/dialogflow/v2beta1/SessionsSettings.java</a>
                 </td>
                 <td>
@@ -7431,6 +7893,20 @@ under the License.
                 </td>
                 <td>
                   2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcEntityTypesStub.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcEntityTypesStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
                 </td>
                 <td>
                   0
@@ -7662,6 +8138,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcIntentsCallableFactory.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcIntentsCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.language.v1beta2.stub.GrpcLanguageServiceStub.java">com/google/cloud/language/v1beta2/stub/GrpcLanguageServiceStub.java</a>
                 </td>
                 <td>
@@ -7711,6 +8201,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.language.v1.stub.GrpcLanguageServiceCallableFactory.java">com/google/cloud/language/v1/stub/GrpcLanguageServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -7795,6 +8299,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.pubsub.v1.stub.GrpcPublisherCallableFactory.java">com/google/cloud/pubsub/v1/stub/GrpcPublisherCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -8222,6 +8740,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.VideoIntelligenceServiceSettings.java">com/google/cloud/videointelligence/v1p1beta1/VideoIntelligenceServiceSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigtable.admin.v2.stub.BigtableInstanceAdminStub.java">com/google/cloud/bigtable/admin/v2/stub/BigtableInstanceAdminStub.java</a>
                 </td>
                 <td>
@@ -8355,6 +8887,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.errorreporting.v1beta1.stub.GrpcErrorGroupServiceCallableFactory.java">com/google/cloud/errorreporting/v1beta1/stub/GrpcErrorGroupServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -8712,6 +9258,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.logging.v2.stub.GrpcLoggingServiceV2CallableFactory.java">com/google/cloud/logging/v2/stub/GrpcLoggingServiceV2CallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.firestore.DocumentReference.java">com/google/cloud/firestore/DocumentReference.java</a>
                 </td>
                 <td>
@@ -8740,7 +9300,35 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.pubsub.v1.stub.GrpcSubscriberCallableFactory.java">com/google/cloud/pubsub/v1/stub/GrpcSubscriberCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigquery.spi.v2.HttpBigQueryRpc.java">com/google/cloud/bigquery/spi/v2/HttpBigQueryRpc.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.speech.v1beta1.stub.GrpcSpeechCallableFactory.java">com/google/cloud/speech/v1beta1/stub/GrpcSpeechCallableFactory.java</a>
                 </td>
                 <td>
                   0
@@ -8866,6 +9454,34 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.spanner.admin.instance.v1.stub.GrpcInstanceAdminCallableFactory.java">com/google/cloud/spanner/admin/instance/v1/stub/GrpcInstanceAdminCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigquery.datatransfer.v1.stub.GrpcDataTransferServiceCallableFactory.java">com/google/cloud/bigquery/datatransfer/v1/stub/GrpcDataTransferServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.storage.BlobWriteChannel.java">com/google/cloud/storage/BlobWriteChannel.java</a>
                 </td>
                 <td>
@@ -8873,6 +9489,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.monitoring.v3.stub.GrpcMetricServiceCallableFactory.java">com/google/cloud/monitoring/v3/stub/GrpcMetricServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -9090,6 +9720,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.stub.VideoIntelligenceServiceStubSettings.java">com/google/cloud/videointelligence/v1p1beta1/stub/VideoIntelligenceServiceStubSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dataproc.v1.stub.GrpcJobControllerStub.java">com/google/cloud/dataproc/v1/stub/GrpcJobControllerStub.java</a>
                 </td>
                 <td>
@@ -9104,20 +9748,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.monitoring.v3.NotificationChannelServiceSettings.java">com/google/cloud/monitoring/v3/NotificationChannelServiceSettings.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  4
-                </td>
-                <td>
-                  0
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.monitoring.v3.MetricServiceClient.java">com/google/cloud/monitoring/v3/MetricServiceClient.java</a>
                 </td>
                 <td>
@@ -9125,6 +9755,20 @@ under the License.
                 </td>
                 <td>
                   43
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.monitoring.v3.NotificationChannelServiceSettings.java">com/google/cloud/monitoring/v3/NotificationChannelServiceSettings.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
                 </td>
                 <td>
                   0
@@ -9370,6 +10014,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.oslogin.v1.stub.GrpcOsLoginServiceCallableFactory.java">com/google/cloud/oslogin/v1/stub/GrpcOsLoginServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dlp.v2beta1.stub.DlpServiceStub.java">com/google/cloud/dlp/v2beta1/stub/DlpServiceStub.java</a>
                 </td>
                 <td>
@@ -9405,6 +10063,20 @@ under the License.
                 </td>
                 <td>
                   32
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.stub.VideoIntelligenceServiceStub.java">com/google/cloud/videointelligence/v1p1beta1/stub/VideoIntelligenceServiceStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -9503,6 +10175,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.errorreporting.v1beta1.stub.GrpcReportErrorsServiceCallableFactory.java">com/google/cloud/errorreporting/v1beta1/stub/GrpcReportErrorsServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -9796,7 +10482,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  4
+                  6
                 </td>
                 <td>
                   0
@@ -9866,7 +10552,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  10
+                  11
                 </td>
                 <td>
                   0
@@ -10161,6 +10847,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.videointelligence.v1p1beta1.stub.GrpcVideoIntelligenceServiceCallableFactory.java">com/google/cloud/videointelligence/v1p1beta1/stub/GrpcVideoIntelligenceServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -10532,6 +11232,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.monitoring.v3.stub.GrpcAlertPolicyServiceCallableFactory.java">com/google/cloud/monitoring/v3/stub/GrpcAlertPolicyServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.spanner.spi.v1.SpannerMetadataProvider.java">com/google/cloud/spanner/spi/v1/SpannerMetadataProvider.java</a>
                 </td>
                 <td>
@@ -10645,6 +11359,20 @@ under the License.
                           <tr>
                 <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.SessionsStub.java">com/google/cloud/dialogflow/v2beta1/stub/SessionsStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcAgentsCallableFactory.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcAgentsCallableFactory.java</a>
                 </td>
                 <td>
                   0
@@ -10819,6 +11547,20 @@ under the License.
                 </td>
                 <td>
                   4
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcEntityTypesCallableFactory.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcEntityTypesCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -11232,6 +11974,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dialogflow.v2beta1.stub.GrpcSessionsCallableFactory.java">com/google/cloud/dialogflow/v2beta1/stub/GrpcSessionsCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.examples.resourcemanager.ResourceManagerExample.java">com/google/cloud/examples/resourcemanager/ResourceManagerExample.java</a>
                 </td>
                 <td>
@@ -11596,6 +12352,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.texttospeech.v1beta1.stub.TextToSpeechStub.java">com/google/cloud/texttospeech/v1beta1/stub/TextToSpeechStub.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigtable.admin.v2.stub.BigtableInstanceAdminStubSettings.java">com/google/cloud/bigtable/admin/v2/stub/BigtableInstanceAdminStubSettings.java</a>
                 </td>
                 <td>
@@ -11610,7 +12380,35 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.videointelligence.v1.stub.GrpcVideoIntelligenceServiceCallableFactory.java">com/google/cloud/videointelligence/v1/stub/GrpcVideoIntelligenceServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.storage.Blob.java">com/google/cloud/storage/Blob.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.monitoring.v3.stub.GrpcUptimeCheckServiceCallableFactory.java">com/google/cloud/monitoring/v3/stub/GrpcUptimeCheckServiceCallableFactory.java</a>
                 </td>
                 <td>
                   0
@@ -11778,6 +12576,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.dataproc.v1.stub.GrpcClusterControllerCallableFactory.java">com/google/cloud/dataproc/v1/stub/GrpcClusterControllerCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.storage.package-info.java">com/google/cloud/storage/package-info.java</a>
                 </td>
                 <td>
@@ -11820,6 +12632,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.vision.v1p1beta1.stub.GrpcImageAnnotatorCallableFactory.java">com/google/cloud/vision/v1p1beta1/stub/GrpcImageAnnotatorCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.examples.logging.snippets.SinkSnippets.java">com/google/cloud/examples/logging/snippets/SinkSnippets.java</a>
                 </td>
                 <td>
@@ -11827,6 +12653,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.bigtable.admin.v2.stub.GrpcBigtableTableAdminCallableFactory.java">com/google/cloud/bigtable/admin/v2/stub/GrpcBigtableTableAdminCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
@@ -11960,6 +12800,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.speech.v1p1beta1.stub.GrpcSpeechCallableFactory.java">com/google/cloud/speech/v1p1beta1/stub/GrpcSpeechCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.examples.speech.snippets.RecognizeSpeech.java">com/google/cloud/examples/speech/snippets/RecognizeSpeech.java</a>
                 </td>
                 <td>
@@ -12023,6 +12877,20 @@ under the License.
                 </td>
                 <td>
                   0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/GoogleCloudPlatform/google-cloud-java/checkstyle.html#com.google.cloud.language.v1beta2.stub.GrpcLanguageServiceCallableFactory.java">com/google/cloud/language/v1beta2/stub/GrpcLanguageServiceCallableFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
                 </td>
                 <td>
                   0
